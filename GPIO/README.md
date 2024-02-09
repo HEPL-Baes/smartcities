@@ -132,7 +132,9 @@ while True:
         LED.value(0)  
 ```
 ### Test du programme 
-Remarque la partie BONUS est pas présente sur le GIF.\
+
 ![IMG_3482 (1)](https://github.com/HEPL-Baes/smartcities/assets/159534213/6c0b69f1-b10f-4bfd-9d75-cdcc6c21eded) 
+
+Remarque la partie BONUS est pas présente sur le GIF.
 
 

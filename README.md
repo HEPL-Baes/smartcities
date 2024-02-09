@@ -34,7 +34,7 @@ MicroPython est une implémentation du langage de programmation Python optimisé
 - [AD-PWM : lecture du potentiomètre, PWM (LED, musique, servo)](AD-PWM)
 - [LCD : documentation des fonctions de la librairie, affichage de la valeur du potentiomètre](LCD)
 - [LED_neo : utilisation des LEDs néopixel, documentation des fonctions de la librairie, arc-en-ciel](LED_neo)
-- [Sensors : température et humidité, luminosité, PIR](SENSOR)
+- [Sensors : température et humidité, luminosité, PIR](SENSORS)
 - [Network : Accès réseau avec le RPi Pico](NETWORK)
 
 

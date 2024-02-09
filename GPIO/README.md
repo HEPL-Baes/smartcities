@@ -66,7 +66,7 @@ pin_button.irq(trigger=Pin.IRQ_FALLING, handler=button)
 **- Boucle principale** \
 Ma boucle est constitué de 3 contitions qui dépendent de la valeur de 'val'. \
 
--Clignotement infini lent. 
+- Clignotement infini lent. 
 ```
     if val == 1:
         # Clignotement lent de la LED
@@ -76,9 +76,9 @@ Ma boucle est constitué de 3 contitions qui dépendent de la valeur de 'val'. \
         utime.sleep(1)
 ```
 
-![IMG_3488](https://github.com/HEPL-Baes/smartcities/assets/159534213/dceef804-15c6-4ae2-a5e2-0614750dd472) \
+![IMG_3488](https://github.com/HEPL-Baes/smartcities/assets/159534213/dceef804-15c6-4ae2-a5e2-0614750dd472) 
 
--Clignotement infini rapide. 
+- Clignotement infini rapide. 
 ```
     elif val == 2:
         # Clignotement rapide de la LED
@@ -87,7 +87,7 @@ Ma boucle est constitué de 3 contitions qui dépendent de la valeur de 'val'. \
         LED.value(0)
         utime.sleep(0.1)  
 ```
-![IMG_3489](https://github.com/HEPL-Baes/smartcities/assets/159534213/f8db5e78-5426-42de-be07-0f70061e97c1) \
+![IMG_3489](https://github.com/HEPL-Baes/smartcities/assets/159534213/f8db5e78-5426-42de-be07-0f70061e97c1) 
 
 - Eteint la LED
 ```
@@ -132,6 +132,7 @@ while True:
         LED.value(0)  
 ```
 ### Test du programme 
+Remarque la partie BONUS est pas présente sur le GIF.\
 ![IMG_3482 (1)](https://github.com/HEPL-Baes/smartcities/assets/159534213/6c0b69f1-b10f-4bfd-9d75-cdcc6c21eded) 
 
 

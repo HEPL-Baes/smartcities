@@ -35,7 +35,7 @@ import utime
 from machine import Pin
 
 # Configuration des entrées/sorties 
-pin_button = Pin(18, mode=Pin.IN, pull=Pin.PULL_UP)  #bouton
+pin_button = Pin(18, mode=Pin.IN)  #bouton
 LED = Pin(16, mode=Pin.OUT)  # LED
 val = 0  # Variable interne pour le bouton 
 ```
@@ -96,7 +96,7 @@ Ma boucle est constitué de 3 contitions qui dépendent de la valeur de 'val'. \
 ```
 ### Code en entier
 ```
-pin_button = Pin(18, mode=Pin.IN, pull=Pin.PULL_UP)  #bouton
+pin_button = Pin(18, mode=Pin.IN)  #bouton
 LED = Pin(16, mode=Pin.OUT)  # LED
 val = 0  # Variable interne pour le bouton 
 

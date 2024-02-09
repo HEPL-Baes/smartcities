@@ -5,7 +5,7 @@ Cours de Smartcities parite MicroPython
 
 ## Raspberry Pi Pico
 
-Le Raspberry Pi Pico est un microcontrôleur abordable et performant développé par la fondation Raspberry Pi. Il est équipé d'un microprocesseur RP2040 dual-core ARM Cortex-M0+ et offre une variété de GPIO pour les projets électroniques.
+Le Raspberry Pi Pico est un microcontrôleur abordable et performant développé par Raspberry Pi. Il est équipé d'un microprocesseur RP2040 dual-core ARM Cortex-M0+ et offre une variété de GPIO pour les projets électroniques.
 
 ### Caractéristiques principales :
 #### Brochage 

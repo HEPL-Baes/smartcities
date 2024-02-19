@@ -22,7 +22,8 @@ o Le faite de changer le potentiomètre modifie directement le volume de la mél
 ### Réalisation sans Bonus :
 #### Branchement raspberry Pico avec le buzzer et le potentiomètre 
 
-PHOTO 
+![image](https://github.com/HEPL-Baes/smartcities/assets/159534213/3fe53b4a-242d-48e2-ad51-fb2479edebbc)
+
 
 • Le buzzer est sur la Pin A1\
 • Le potentimètre est sur la Pin A0
@@ -129,7 +130,8 @@ while True:
 Pour cette partie, mon code représente une évolution significative par rapport au premier.
 #### Branchement raspberry Pico avec le bouton, la led, le buzzer et le potentiomète. 
 
-PHOTO 
+![image](https://github.com/HEPL-Baes/smartcities/assets/159534213/f166fd46-239b-4b79-b979-d5595dc64def)
+
 
 • La led sur la Pin 16\
 • Le bouton sur la Pin 18\
